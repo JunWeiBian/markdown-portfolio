@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![repository-open-graph-template](https://user-images.githubusercontent.com/66100362/109773662-6d61b780-7c3a-11eb-95c5-49ede4a1b9ed.png)
